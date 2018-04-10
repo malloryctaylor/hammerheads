@@ -1,2 +1,2 @@
-# mwdlesson
-Web Design course
+# Hammerheads
+Gymnasium Web Course
